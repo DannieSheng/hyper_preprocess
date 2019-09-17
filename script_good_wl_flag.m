@@ -12,7 +12,7 @@ seed = 3;
 % date     = '06_25';
 % loc      = 'CLMB';
 % planting = 'STND';
-path_data = 'T:\AnalysisDroneData\ReflectanceCube\MATdataCube\CLMB GWAS 2019 Flight Data\100088_2019_08_05_16_38_23\';
+path_data = 'T:\AnalysisDroneData\ReflectanceCube\MATdataCube\CLMB GWAS 2019 Flight Data\100086_2019_07_18_16_55_39\';
 
 
 list = dir([path_data, 'raw*.mat']);
